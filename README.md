@@ -28,3 +28,6 @@ Microsoft Excel
 Enhance dashboard aesthetics and user experience.
 Generalize the dashboard for broader use.
 Optimize dashboards for mobile and tablet viewing.
+
+Conclusion
+This project provided valuable insights into personal spending habits through the use of PowerBI. The interactive nature of the dashboards allows for a deep dive into financial data, making it easier to manage and optimize personal finances.
